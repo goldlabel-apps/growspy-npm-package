@@ -1,7 +1,7 @@
 {
   "name": "@listingslab/growspy",
-  "version": "0.0.2",
-  "description": "Public Growspy NPM package",
+  "version": "0.0.1",
+  "description": "Growspy NPM package",
   "main": "./dist/index.js",
   "types": "./dist/index.d.js",
   "scripts": {
