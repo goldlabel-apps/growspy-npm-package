@@ -1,5 +1,5 @@
 {
-  "name": "@growspy/spy",
+  "name": "@listingslab/growspy",
   "version": "0.0.1",
   "description": "Growspy NPM package",
   "main": "./dist/index.js",
@@ -19,14 +19,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/listingslab-packages/tings"
+    "url": "https://github.com/growspy/npm-growspy"
   },
   "author": {
     "name": "listingslab",
-    "url": "https://listingslab.com/tings"
+    "url": "https://listingslab.com/growspy"
   },
   "license": "MIT",
   "keywords": [
+    "growspy",
     "react",
     "node",
     "package",
