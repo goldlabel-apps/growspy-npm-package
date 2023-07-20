@@ -1,7 +1,7 @@
 {
+  "version": "0.0.3",
   "name": "@listingslab/growspy",
-  "version": "0.0.1",
-  "description": "Growspy NPM package",
+  "description": "Public Growspy NPM package",
   "main": "./dist/index.js",
   "types": "./dist/index.d.js",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/growspy/npm-growspy"
+    "url": "https://github.com/listingslab-packages/growspy"
   },
   "author": {
     "name": "listingslab",
